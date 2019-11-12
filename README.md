@@ -5,6 +5,5 @@ Copyright: Dr. Claudiu C. Gradinaru, Department of Physics, University of Toront
 
 Files:
 
-    Single-molecule burst selection
-    Multiparameter burst analysis
+    Single-molecule burst analysis
     FCS analysis

@@ -7,4 +7,4 @@ Files:
 
     Single-molecule burst selection
     Multiparameter burst analysis
-    FCS curve fitting 
+    FCS analysis
